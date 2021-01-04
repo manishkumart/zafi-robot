@@ -15,8 +15,8 @@ def ex(cmd):
     tts.say(replying.get_reply("news"))
 
     # check if language is German
-    if settings.LANGUAGE == "de-DE":
-        url = "https://news.google.com/?hl=de&gl=DE&ceid=DE%3Ade"
+    if settings.LANGUAGE == "en":
+        url = "https://indianexpress.com/"
     # else use English
     else:
         url = "https://news.google.com/?hl=en-US&gl=US&ceid=US:en"

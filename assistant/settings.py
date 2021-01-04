@@ -6,20 +6,21 @@ SeTtINgs
 import logging
 
 # keyword for waking up
-KEYWORD = "otto"
+KEYWORD = "zafi"
 
 # sst/tts language used for recognizing
-# (at the moment only en-US and de-DE available)
+# (at the moment only en-US is avilable)
 # language you want to speak and get answered in
 LANGUAGE = "en-US"
 # first two letters of language
 LANGUAGE_SHORT = LANGUAGE[:2]
 
 # location used for weather requests and more
-LOCATION = "berlin"
+LOCATION = "india"
 # openweatherapi key from their site
 # (neccesary for weather requests)
-WEATHER_API_KEY = ""
+WEATHER_API_KEY = "d22edf5137dd00bc87463abbef20e6c6"
+
 
 # the stt speech engine used to recognize audio
 # (at the moment only google available)
@@ -49,12 +50,12 @@ REPLIES_FILE_PATH = "assistant/data/files/json/replies.json"
 
 # news ticks
 # (how man titles from the news page)
-MAX_NEWS_TICKS = 5
+MAX_NEWS_TICKS = 4
 
 # energy threshold for manual ambient
 # noise adaption
 SR_ENERGY_THRESHOLD = 200
 
 # logger definitions
-LOGGER_NAME = "otto"
+LOGGER_NAME = "zafi"
 LOGGER_LEVEL = logging.DEBUG

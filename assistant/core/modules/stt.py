@@ -36,7 +36,6 @@ def listen():
         # listen to raw microphone input
         audio = recognizer.listen(raw_microphone_input)
         return audio
-
 """
 recognize
 > returns text output from

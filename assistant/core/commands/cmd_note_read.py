@@ -14,7 +14,7 @@ notes
 def ex(cmd):
     # save the command
     # read the file
-    with open("data/files/json/notes.json", "r+", encoding="utf-8") as notes_file:
+    with open("assistant\data\files\json\notes.json", "r+", encoding="utf-8") as notes_file:
         notes_file_data = json.load(notes_file)
 
     tts.say(replying.get_reply("note_read"))

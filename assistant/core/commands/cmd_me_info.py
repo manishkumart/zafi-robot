@@ -8,4 +8,4 @@ some info
 about the assistant
 """
 def ex(cmd):
-    tts.say("Grüzi Servus, ich bin {}. Ich kann dir beim Wetter, bei den Nachrichten und vielem mehr behilflich sein.".format(settings.KEYWORD))
+    tts.say("I am zhaafhe version 1.0. An AI poweered voice assistant Created by  Mr. Manish to serve people".format(settings.KEYWORD))

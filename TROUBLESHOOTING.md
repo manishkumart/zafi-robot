@@ -30,6 +30,4 @@ Errors while installing packages or modules
 
 If you're unable to install PyAudio using `pip install pyaudio`, check out [this issue](https://github.com/SlapBot/stephanie-va/issues/8#issuecomment-307617796).
 
-## Other?
 
-No problem! Feel free to start a [new issue](https://github.com/matthiaaas/otto-assistant/issues/new).
