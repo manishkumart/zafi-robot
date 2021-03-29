@@ -1,0 +1,138 @@
+{
+  "time": {
+    "en-US": {
+      "keyword": "time",
+      "data": [
+        "what's the time",
+        "what is the time"
+      ]
+    }
+  },
+  "date": {
+    "en-US": {
+      "keyword": "date",
+      "data": [
+        "what's the day today",
+        "what's the date today",
+        "what date it is",
+        "what is today's date"
+      ]
+    }
+  },
+  "weather": {
+    "en-US": {
+      "keyword": "weather",
+      "data": [
+        "what's the weather like",
+        "execute the command weather",
+        "weather"
+      ]
+    }
+  },
+  "weatherforecast": {
+    "en-US": {
+      "keyword": "weather report",
+      "data": [
+        "what's the weather report"
+      ]
+    }
+  },
+  "news": {
+    "en-US": {
+      "keyword": "news",
+      "data": [
+        "what are the news",
+        "what are the latest news",
+        "news"
+      ]
+    }
+  },
+  "echo": {
+    "en-US": {
+      "keyword": "repeat",
+      "data": [
+        "repeat",
+        "say"
+      ]
+    }
+  },
+  "louder": {
+    "en-US": {
+      "keyword": "louder",
+      "data": [
+        "volume up",
+        "more sound"
+      ]
+    }
+  },
+  "quieter": {
+    "en-US": {
+      "keyword": "quieter",
+      "data": [
+        "volume down",
+        "less sound"
+      ]
+    }
+  },
+  "note": {
+    "en-US": {
+      "keyword": "note",
+      "data": [
+        "what are my notes",
+        "read my notes",
+        "note"
+      ]
+    }
+  },
+  "note_add": {
+    "en-US": {
+      "keyword": "*",
+      "data": [
+        "new note",
+        "add note",
+        "remember"
+      ]
+    }
+  },
+  "note_clear": {
+    "en-US": {
+      "keyword": "*",
+      "data": [
+        "clear notes"
+      ]
+    }
+  },
+  "clock_set": {
+    "en-US": {
+      "keyword": "*",
+      "data": [
+        "*"
+      ]
+    }
+  },
+  "clock_reset": {
+    "en-US": {
+      "keyword": "*",
+      "data": [
+        "*"
+      ]
+    }
+  },
+  "cpu": {
+    "en-US": {
+      "keyword": "cpu temperature",
+      "data": [
+        "cpu temperature"
+      ]
+    }
+  },
+  "me_info": {
+    "en-US": {
+      "keyword": "help",
+      "data": [
+        "how can you help me",
+        "who are you"
+      ]
+    }
+  }
+}
